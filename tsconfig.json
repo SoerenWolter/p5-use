@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "baseUrl": "src",
+        "sourceRoot": "src",
+        "sourceMap": true,
+        "target": "es5",
+        "noImplicitAny": false,
+        "allowJs": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+    },
+    "include": [
+        "./src/**/*.ts",
+    ]
+}
