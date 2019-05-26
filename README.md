@@ -14,7 +14,7 @@ This is by far no sophisticated starter or whatever. The goal is to get the simp
 Just clone it and get going.
 
 ```
-$ git clone --depth=1 https://github.com/juristr/webpack-typescript-starter.git <your-project-name>
+$ git clone --depth=1 https://github.com/SoerenWolter/p5-use.git <your-project-name>
 
 # change directory to your project
 cd  <your-project-name>
